@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e9e8f14a9a2a079418132266d8e6c57c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - wallMap: {instanceID: 0}
+  - wall: {fileID: 11400000, guid: 9471aff0e08f8ec419606e43fa87e69c, type: 2}
+  - start: {fileID: 11400000, guid: 5e445e152733ad44f9caed1619f05dd0, type: 2}
+  - exit: {fileID: 11400000, guid: 38902a0d9de7f50428e52bbc97a43efd, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
