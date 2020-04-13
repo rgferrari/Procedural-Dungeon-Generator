@@ -5,6 +5,6 @@ Hello, this is a procedural dungeon generator with similar rules to The Binding 
   <img width="70%" alt="sample" src="sample.gif">
 </p>
 
-This dungeon generator paints the rooms, the player and the boss in a Tile Map.
+This dungeon generator uses the [drunkard's walk](https://en.wikipedia.org/wiki/Random_walk) algorithm to draw aleatory rooms, the spawn room and the boss room in a Tile Map.
 
-If you want to see the scripts they are in the folder [Assets/Scripts](https://github.com/rgferrari/Procedural-Dungeon-Generator/tree/master/Assets/Scripts).
+You can see the scripts [here](https://github.com/rgferrari/Procedural-Dungeon-Generator/tree/master/Assets/Scripts).
