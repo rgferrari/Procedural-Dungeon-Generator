@@ -1,6 +1,6 @@
 # Procedural-Dungeon-Generator
 
-Hello, this is a procedural dungeon generator with similar rules to The Binding of Isaac ones.
+Hello, this is a procedural dungeon generator made in Unity with similar rules to The Binding of Isaac ones.
 <p align="center">
   <img width="70%" alt="sample" src="sample.gif">
 </p>
